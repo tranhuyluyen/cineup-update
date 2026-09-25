@@ -1,0 +1,18 @@
+{
+  "version": "0.1.1",
+  "released_at": "2026-09-25",
+  "minimum_version": "0.0.0",
+  "notes": [
+    "Cập nhật giao diện tinh giản và hiện đại",
+    "Bỏ nhãn Hongguo & NetShort ở tiêu đề cửa sổ",
+    "Thẻ Server Status tinh gọn hiển thị trạng thái kết nối và số lượng phim thời gian thực",
+    "Tối ưu danh mục nền tảng và thanh cuộn sidebar",
+    "Hỗ trợ tự động kiểm tra và nâng cấp phiên bản qua GitHub"
+  ],
+  "asset": {
+    "name": "CineUp-Setup-0.1.1.exe",
+    "size": 156412672,
+    "sha256": "5fea3f9dcda19f62aa31fedb329c6d185c51b9f8d22e0cb116fa2a62cf991b32",
+    "asset_id": 587517494
+  }
+}
