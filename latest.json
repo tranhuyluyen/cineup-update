@@ -1,17 +1,18 @@
 {
-  "version": "0.1.3",
+  "version": "0.1.4",
   "released_at": "2026-09-25",
   "minimum_version": "0.0.0",
   "notes": [
-    "Sửa lỗi kết nối kiểm tra cập nhật phim mới (khắc phục lỗi 422 unprocessable entity)",
-    "Bật lại thông báo Toast khi có phim mới được hệ thống tự động cập nhật theo thời gian thực",
-    "Mở rộng danh sách phim mới phát hành hiển thị toàn bộ phim trong ngày (bỏ giới hạn 100 phim)",
-    "Sửa lỗi giải mã video khi tải phim với các chuẩn nén độc quyền ByteDance (bvc2 -> bytevc1)"
+    "Cài đặt tải xuống: Cho phép tùy chỉnh 1-8 luồng tải đồng thời và bật/tắt tự động tải kèm ảnh bìa poster chất lượng cao.",
+    "Tiện ích sao chép & ảnh bìa: Thêm nút sao chép tóm tắt tiếng Việt & tiếng Trung, menu chuột phải copy/lưu ảnh bìa trên poster.",
+    "Khắc phục & thử lại tập lỗi: Thêm nút 'Thử lại tập lỗi' cạnh nút Tùy chọn tải và cơ chế auto-retry thông minh chống rớt mạng.",
+    "Tối ưu trình phát xem trước: Tự động tải trước tập 1 và tập tiếp theo trong nền, tối ưu thông báo trạng thái chuẩn bị file.",
+    "Hiển thị chỉ số tương tác thực tế: Lượt thích, Lượt lưu và Độ hot từ ByteDance, tự động đưa phim mới lên đầu danh sách."
   ],
   "asset": {
-    "name": "CineUp-Setup-0.1.3.exe",
-    "size": 156428425,
-    "sha256": "7b55050d2e36ecd4b1a060bfb35da3d26d392c2dbd9bdc9ff213ee01afef36ff",
-    "asset_id": 588499091
+    "name": "CineUp-Setup-0.1.4.exe",
+    "size": 156427906,
+    "sha256": "356bfb8aa20ac64f82f067c8437be9cf2ca3cbabb7036c7f7cda30b2407952a0",
+    "asset_id": 588615795
   }
 }
