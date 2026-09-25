@@ -1,18 +1,17 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "released_at": "2026-09-25",
   "minimum_version": "0.0.0",
   "notes": [
-    "Cập nhật giao diện tinh giản và hiện đại",
-    "Bỏ nhãn Hongguo & NetShort ở tiêu đề cửa sổ",
-    "Thẻ Server Status tinh gọn hiển thị trạng thái kết nối và số lượng phim thời gian thực",
-    "Tối ưu danh mục nền tảng và thanh cuộn sidebar",
-    "Hỗ trợ tự động kiểm tra và nâng cấp phiên bản qua GitHub"
+    "Tự động tải danh sách phim ngay khi mở app không cần bấm Làm mới",
+    "Thêm Toast thông báo cập nhật phiên bản mới trực tiếp trên màn hình chính",
+    "Hỗ trợ tải và cài đặt cập nhật 1-click ngay từ Toast thông báo",
+    "Tối ưu hóa token phiên bảo mật khi khởi động ứng dụng"
   ],
   "asset": {
-    "name": "CineUp-Setup-0.1.1.exe",
-    "size": 156412672,
-    "sha256": "5fea3f9dcda19f62aa31fedb329c6d185c51b9f8d22e0cb116fa2a62cf991b32",
-    "asset_id": 587517494
+    "name": "CineUp-Setup-0.1.2.exe",
+    "size": 156418700,
+    "sha256": "3bd7104fce7d8ab7b0d1186ab9932cf3f2cf857b238cd82596a0ffa4df9228e9",
+    "asset_id": 587558542
   }
 }
