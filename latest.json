@@ -1,18 +1,16 @@
 {
-  "version": "0.1.4",
-  "released_at": "2026-09-25",
+  "version": "0.1.5",
+  "released_at": "2026-09-26",
   "minimum_version": "0.0.0",
   "notes": [
-    "Cài đặt tải xuống: Cho phép tùy chỉnh 1-8 luồng tải đồng thời và bật/tắt tự động tải kèm ảnh bìa poster chất lượng cao.",
-    "Tiện ích sao chép & ảnh bìa: Thêm nút sao chép tóm tắt tiếng Việt & tiếng Trung, menu chuột phải copy/lưu ảnh bìa trên poster.",
-    "Khắc phục & thử lại tập lỗi: Thêm nút 'Thử lại tập lỗi' cạnh nút Tùy chọn tải và cơ chế auto-retry thông minh chống rớt mạng.",
-    "Tối ưu trình phát xem trước: Tự động tải trước tập 1 và tập tiếp theo trong nền, tối ưu thông báo trạng thái chuẩn bị file.",
-    "Hiển thị chỉ số tương tác thực tế: Lượt thích, Lượt lưu và Độ hot từ ByteDance, tự động đưa phim mới lên đầu danh sách."
+    "✨ Nâng cấp giao diện UI: Tinh chỉnh thông báo Toast tự động đóng sau 4s kèm animation trượt ra mượt mà, tiện lợi hơn.",
+    "⚡ Nâng cấp server: Tối ưu hoá luồng đồng bộ giúp tìm kiếm và khám phá các phim mới nhanh hơn, ổn định hơn.",
+    "🛡️ Khắc phục lỗi: Sửa một số bug nhỏ trong quá trình sử dụng và tối ưu hoá hiệu năng xử lý nền."
   ],
   "asset": {
-    "name": "CineUp-Setup-0.1.4.exe",
-    "size": 156428660,
-    "sha256": "77b9d0fbf0f83184ad44c41563321f59f78e9563e665fb3a7f824dcf17c2f4ed",
-    "asset_id": 588636139
+    "name": "CineUp-Setup-0.1.5.exe",
+    "size": 203946711,
+    "sha256": "052d542fb8013a5492943cc965a932f09cea2e41bc4b24e618d80848a48b053d",
+    "asset_id": 590720125
   }
 }
