@@ -1,17 +1,17 @@
 {
-  "version": "0.1.10",
+  "version": "0.1.11",
   "released_at": "2026-10-07",
   "minimum_version": "0.0.0",
   "notes": [
-    "🎨 Tối ưu hóa UI/UX: Nâng cấp trải nghiệm duyệt & xem phim, làm mới giao diện chi tiết, hiển thị tiến trình và badge tập trực quan, mượt mà.",
-    "🚀 Tối ưu hóa luồng tải xuống: Cải tiến tải đa luồng, thêm nút hủy tiến trình linh hoạt ở cả tab Tải xuống và modal chi tiết, đồng bộ file cực nhanh.",
-    "🎬 Tính năng video liên quan: Tự động đề xuất các bộ phim tương đồng cùng chủ đề/thể loại ngay trong modal, chuyển đổi phim tức thì kèm nút quay lại thông minh.",
-    "🛡️ Sửa lỗi & ổn định hệ thống: Khắc phục triệt để lỗi hiển thị xanh sai trạng thái các tập phim, ngăn chặn trùng lặp cache và sửa các bug nhỏ khác."
+    "📐 Sửa lỗi hiển thị tỉ lệ phim: Nhận diện chuẩn xác phim ngang 16:9 và phim dọc 9:16 trong danh sách phim liên quan dựa trên metadata gốc và stream video.",
+    "🖥️ Căn chỉnh giao diện 2 cột đồng đều: Cột chi tiết/danh sách tập và cột phim liên quan tự động mở rộng bằng nhau trên màn hình lớn, loại bỏ hoàn toàn khoảng trống.",
+    "⚡ Nâng cấp đồng bộ server: Trích xuất chính xác định dạng khung hình từ kho dữ liệu hơn 27.000+ phim, tăng tốc độ phản hồi API.",
+    "🛡️ Khắc phục các lỗi nhỏ khác và tối ưu hóa hiệu năng ứng dụng."
   ],
   "asset": {
-    "name": "CineUp-Setup-0.1.10.exe",
-    "size": 203969366,
-    "sha256": "2ea24012cd1df2bd0c2b275ebfdb0c3a2d7c20676ade15ca947ba541ef8ddf61",
-    "asset_id": 617550749
+    "name": "CineUp-Setup-0.1.11.exe",
+    "size": 203967033,
+    "sha256": "7a5733afa109b61749a3eb1ce1cde49fdbdb44afdb262fdb497459d5dd3415f3",
+    "asset_id": 618308990
   }
 }
