@@ -1,16 +1,17 @@
 {
-  "version": "0.1.5",
-  "released_at": "2026-09-26",
+  "version": "0.1.10",
+  "released_at": "2026-10-07",
   "minimum_version": "0.0.0",
   "notes": [
-    "✨ Nâng cấp giao diện UI: Tinh chỉnh thông báo Toast tự động đóng sau 4s kèm animation trượt ra mượt mà, tiện lợi hơn.",
-    "⚡ Nâng cấp server: Tối ưu hoá luồng đồng bộ giúp tìm kiếm và khám phá các phim mới nhanh hơn, ổn định hơn.",
-    "🛡️ Khắc phục lỗi: Sửa một số bug nhỏ trong quá trình sử dụng và tối ưu hoá hiệu năng xử lý nền."
+    "🎨 Tối ưu hóa UI/UX: Nâng cấp trải nghiệm duyệt & xem phim, làm mới giao diện chi tiết, hiển thị tiến trình và badge tập trực quan, mượt mà.",
+    "🚀 Tối ưu hóa luồng tải xuống: Cải tiến tải đa luồng, thêm nút hủy tiến trình linh hoạt ở cả tab Tải xuống và modal chi tiết, đồng bộ file cực nhanh.",
+    "🎬 Tính năng video liên quan: Tự động đề xuất các bộ phim tương đồng cùng chủ đề/thể loại ngay trong modal, chuyển đổi phim tức thì kèm nút quay lại thông minh.",
+    "🛡️ Sửa lỗi & ổn định hệ thống: Khắc phục triệt để lỗi hiển thị xanh sai trạng thái các tập phim, ngăn chặn trùng lặp cache và sửa các bug nhỏ khác."
   ],
   "asset": {
-    "name": "CineUp-Setup-0.1.5.exe",
-    "size": 203946711,
-    "sha256": "052d542fb8013a5492943cc965a932f09cea2e41bc4b24e618d80848a48b053d",
-    "asset_id": 590720125
+    "name": "CineUp-Setup-0.1.10.exe",
+    "size": 203969366,
+    "sha256": "2ea24012cd1df2bd0c2b275ebfdb0c3a2d7c20676ade15ca947ba541ef8ddf61",
+    "asset_id": 617550749
   }
 }
