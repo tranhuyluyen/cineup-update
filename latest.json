@@ -1,17 +1,18 @@
 {
   "version": "0.1.11",
-  "released_at": "2026-10-07",
+  "released_at": "2026-10-09",
   "minimum_version": "0.0.0",
   "notes": [
-    "📐 Sửa lỗi hiển thị tỉ lệ phim: Nhận diện chuẩn xác phim ngang 16:9 và phim dọc 9:16 trong danh sách phim liên quan dựa trên metadata gốc và stream video.",
-    "🖥️ Căn chỉnh giao diện 2 cột đồng đều: Cột chi tiết/danh sách tập và cột phim liên quan tự động mở rộng bằng nhau trên màn hình lớn, loại bỏ hoàn toàn khoảng trống.",
-    "⚡ Nâng cấp đồng bộ server: Trích xuất chính xác định dạng khung hình từ kho dữ liệu hơn 27.000+ phim, tăng tốc độ phản hồi API.",
-    "🛡️ Khắc phục các lỗi nhỏ khác và tối ưu hóa hiệu năng ứng dụng."
+    "🔔 Tính năng Tab Theo Dõi (Watchlist): Thêm nút theo dõi nhanh ở mỗi poster phim và trong modal chi tiết, dễ dàng lưu và theo dõi các bộ phim yêu thích.",
+    "📚 Tự động gom nhóm các Mùa / Phần (Franchise Grouping): Chỉ cần theo dõi bất kỳ một mùa nào, CineUp sẽ tự động phát hiện và gom toàn bộ các phần (Mùa 1..N) vào một khung thẻ Series duy nhất kèm danh sách chọn nhanh các mùa.",
+    "⚡ Cảnh báo Mùa mới & Tập mới tự động: Hiển thị banner thông báo nổi bật khi ByteDance phát hành thêm mùa mới hoặc tập mới; badge số đếm trên thanh tab chỉ hiển thị khi có cập nhật mới.",
+    "⏱️ Bổ sung thông tin Thời lượng: Hiển thị đầy đủ tổng thời lượng phim và ước tính thời lượng trung bình mỗi tập trực tiếp trong modal chi tiết phim.",
+    "🛡️ Tối ưu hóa hiệu năng & độ ổn định: Nâng cấp thuật toán trích xuất franchise, đồng bộ trạng thái chuông theo dõi theo thời gian thực và cải thiện trải nghiệm người dùng."
   ],
   "asset": {
     "name": "CineUp-Setup-0.1.11.exe",
-    "size": 203967033,
-    "sha256": "7a5733afa109b61749a3eb1ce1cde49fdbdb44afdb262fdb497459d5dd3415f3",
-    "asset_id": 618308990
+    "size": 203975331,
+    "sha256": "baa08b152e09de37468b88763e66c3c6cbdbbf4ac4a9b07df169fd71282f7d62",
+    "asset_id": 625442596
   }
 }
