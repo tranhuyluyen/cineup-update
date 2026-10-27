@@ -1,17 +1,19 @@
 {
-  "version": "0.1.13",
-  "released_at": "2026-10-26",
+  "version": "0.1.14",
+  "released_at": "2026-10-27",
   "minimum_version": "0.0.0",
   "notes": [
-    "🏷️ Thẻ Thể loại Tương tác (Clickable Drama Tags): Cho phép click vào bất kỳ thẻ tag nào trong chi tiết phim để chuyển ngay sang tab Tìm kiếm và lọc toàn bộ danh sách phim cùng thể loại.",
-    "🔍 Đề xuất Tìm kiếm Thông minh (Search Auto-Suggest & Autocomplete): Tự động hiển thị dropdown gợi ý phim và từ khóa liên quan ngay khi gõ từ khóa, hỗ trợ phím điều hướng và xem nhanh phim.",
-    "📜 Cuộn tải Vô tận cho Tab Tìm kiếm (Infinite Scroll Search): Tự động nạp tiếp 24 phim tiếp theo khi cuộn xuống cuối danh sách kết quả tìm kiếm.",
-    "⚡ Tối ưu hóa hiệu năng và trải nghiệm người dùng."
+    "🔍 Gợi ý tìm kiếm thông minh: Tự động đề xuất phim và từ khóa liên quan khi gõ; hỗ trợ phím mũi tên và Enter để chọn nhanh.",
+    "🏷️ Thẻ thể loại tương tác: Bấm trực tiếp vào thể loại phim để xem ngay toàn bộ danh sách phim cùng chủ đề.",
+    "📜 Cuộn tải liên tục: Tự động tải tiếp phim khi cuộn xuống cuối trang tìm kiếm mà không cần chuyển trang thủ công.",
+    "🎬 Hồ sơ & Theo dõi Kênh tác giả: Xem toàn bộ các phim do kênh/studio đăng tải; hỗ trợ theo dõi kênh yêu thích tại tab Kênh theo dõi.",
+    "🔔 Thông báo phim mới chuẩn xác: Huy hiệu thông báo chỉ hiển thị khi các kênh bạn theo dõi có tác phẩm mới phát hành.",
+    "⚡ Tối ưu tốc độ tải phim nhanh vượt trội và cải thiện độ mượt thanh chọn tập khi xem trước."
   ],
   "asset": {
-    "name": "CineUp-Setup-0.1.13.exe",
-    "size": 203976769,
-    "sha256": "7cc9a62d64ab222d3f3d820b91eb18bc12097d02de1e4676bb96c2824247f60b",
-    "asset_id": 678019424
+    "name": "CineUp-Setup-0.1.14.exe",
+    "size": 203981134,
+    "sha256": "1364e2d78c0647dbf82d8a31a05fa26c77afd8b8993bf987508c3f033d35b8c2",
+    "asset_id": 682071390
   }
 }
