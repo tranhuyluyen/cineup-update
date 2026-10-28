@@ -1,19 +1,18 @@
 {
-  "version": "0.1.14",
-  "released_at": "2026-10-27",
+  "version": "0.1.15",
+  "released_at": "2026-10-29",
   "minimum_version": "0.0.0",
   "notes": [
-    "🔍 Gợi ý tìm kiếm thông minh: Tự động đề xuất phim và từ khóa liên quan khi gõ; hỗ trợ phím mũi tên và Enter để chọn nhanh.",
-    "🏷️ Thẻ thể loại tương tác: Bấm trực tiếp vào thể loại phim để xem ngay toàn bộ danh sách phim cùng chủ đề.",
-    "📜 Cuộn tải liên tục: Tự động tải tiếp phim khi cuộn xuống cuối trang tìm kiếm mà không cần chuyển trang thủ công.",
-    "🎬 Hồ sơ & Theo dõi Kênh tác giả: Xem toàn bộ các phim do kênh/studio đăng tải; hỗ trợ theo dõi kênh yêu thích tại tab Kênh theo dõi.",
-    "🔔 Thông báo phim mới chuẩn xác: Huy hiệu thông báo chỉ hiển thị khi các kênh bạn theo dõi có tác phẩm mới phát hành.",
-    "⚡ Tối ưu tốc độ tải phim nhanh vượt trội và cải thiện độ mượt thanh chọn tập khi xem trước."
+    "🛡️ Đánh dấu bản quyền Content ID (CID): Thêm tính năng gắn cờ CID trực tiếp trên từng bộ phim, chi tiết phim và danh sách phim liên quan để nhận diện ngay các phim dính bản quyền.",
+    "🤝 Đồng bộ cộng đồng thời gian thực: Dữ liệu gắn cờ CID được đồng bộ tức thì lên hệ thống cho tất cả người dùng — cùng nhau đóng góp để mọi người không mất công test lại các phim đã dính bản quyền.",
+    "⚡ Bộ lọc trạng thái CID thông minh: Bổ sung bộ lọc 'Chưa dính CID' và 'Đã dính CID' giúp tìm kiếm và quản lý phim an toàn, tối ưu luồng upload.",
+    "🔄 Tối ưu đồng bộ đa tiến trình & Cache 0ms: Sửa triệt để hiện tượng nhãn CID lúc hiện lúc không, nạp dữ liệu tức thì ngay khi mở ứng dụng.",
+    "🎨 Tinh chỉnh giao diện tinh gọn: Bố trí hàng nút chức năng khoa học, biểu tượng tải xuống và huy hiệu CID trực quan, đẹp mắt."
   ],
   "asset": {
-    "name": "CineUp-Setup-0.1.14.exe",
-    "size": 203981134,
-    "sha256": "1364e2d78c0647dbf82d8a31a05fa26c77afd8b8993bf987508c3f033d35b8c2",
-    "asset_id": 682071390
+    "name": "CineUp-Setup-0.1.15.exe",
+    "size": 203984934,
+    "sha256": "43b7788fc252c6b99966bf738fac6998bea92de426edee0bbf100750cc4e40c9",
+    "asset_id": 685904299
   }
 }
